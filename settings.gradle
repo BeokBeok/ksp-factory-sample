@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "ksp-factory-sample"
 include ':app'
 include ':annotations'
+include ':processor'
